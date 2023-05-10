@@ -1,7 +1,7 @@
-# 1 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
+# 1 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
 // include library, include base class, make path known
-# 3 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino" 2
-# 4 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino" 2
+# 3 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino" 2
+# 4 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino" 2
 #define CONFIG_ARDUINO_LOOP_STACK_SIZE 20480
 #define configMINIMAL_STACK_SIZE 20480
 
@@ -76,15 +76,15 @@ void AT_CMD_Task(void *pvParamerters)
       //发送AT+CMD进入配置模式
       //发送AT+QUIT退出配置模式
       at_thread_putchar(atcmd, strlen((const char*)atcmd), param, 
-# 77 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino" 3 4
+# 77 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino" 3 4
                                                                  __null
-# 77 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
+# 77 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
                                                                      );
 
       if (param->temp_param.output_flag == 0 && getSensorData_handler != 
-# 79 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino" 3 4
+# 79 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino" 3 4
                                                                         __null 
-# 79 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
+# 79 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
                                                                              )
       {
         param->temp_param.output_flag = 2;
@@ -92,9 +92,9 @@ void AT_CMD_Task(void *pvParamerters)
         vTaskSuspend(getSensorData_handler);
       }
       else if (param->temp_param.output_flag == 1 && getSensorData_handler != 
-# 85 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino" 3 4
+# 85 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino" 3 4
                                                                              __null 
-# 85 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
+# 85 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
                                                                                   )
       {
         param->temp_param.output_flag = 3;
@@ -191,7 +191,7 @@ void getSensorData_Task(void *pvParamerters)
 
       delay(5);
     }
-# 198 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
+# 198 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
     putchar(10);
 
     digitalWrite(32, 0x0);
@@ -317,9 +317,9 @@ void loop()
   delay(500);
   free(param);
   param = 
-# 322 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino" 3 4
+# 322 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino" 3 4
          __null
-# 322 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
+# 322 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
              ;
   printf("Going to sleep now\r\n");
   esp_deep_sleep_start();

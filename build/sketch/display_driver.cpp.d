@@ -1,6 +1,6 @@
-F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\display_driver.cpp.o: \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\display_driver.cpp \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\display_driver.h \
+D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\display_driver.cpp.o: \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\display_driver.cpp \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\display_driver.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/newlib/stdio.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/newlib/_ansi.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/newlib/newlib.h \
@@ -146,8 +146,8 @@ F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\display_driver.cpp.o: \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src/GxIO/GxIO_SPI/GxIO_SPI.h \
  c:\users\16372\documents\arduino\libraries\gxepd\src\gxio\gxio.h \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src/GxIO/GxIO.h \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\board_def.h \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\board_def.h \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src/GxDEPG0213BN/GxDEPG0213BN.h \
  c:\users\16372\documents\arduino\libraries\gxepd\src\gxepd.h \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\esp32_sys_time.h \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\esp32_sys_time.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/spi_flash/esp_spi_flash.h

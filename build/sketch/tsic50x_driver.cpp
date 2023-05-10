@@ -1,4 +1,4 @@
-#line 1 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\tsic50x_driver.cpp"
+#line 1 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\tsic50x_driver.cpp"
 #include "tsic50x_driver.h"
 
 uint8_t wait_edge_trigger(uint8_t pinNum, uint8_t sensor_status);

@@ -1,4 +1,4 @@
-F:\EpaperSHTsimple\EpaperSHTsimple\build\libraries\Ticker\Ticker.cpp.o: \
+D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\libraries\Ticker\Ticker.cpp.o: \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\libraries\Ticker\src\Ticker.cpp \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\libraries\Ticker\src\Ticker.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/esp32/esp_timer.h \

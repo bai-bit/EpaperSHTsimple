@@ -1,4 +1,4 @@
-F:\EpaperSHTsimple\EpaperSHTsimple\build\libraries\Adafruit\ GFX\ Library_ID13\Adafruit_SPITFT.cpp.o: \
+D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\libraries\Adafruit\ GFX\ Library_ID13\Adafruit_SPITFT.cpp.o: \
  C:\Users\16372\Documents\Arduino\libraries\Adafruit\ GFX\ Library_ID13\Adafruit_SPITFT.cpp \
  C:\Users\16372\Documents\Arduino\libraries\Adafruit\ GFX\ Library_ID13\Adafruit_SPITFT.h \
  C:\Users\16372\Documents\Arduino\libraries\Adafruit\ GFX\ Library_ID13\Adafruit_GFX.h \

@@ -1,6 +1,6 @@
-F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\wifi_mqtt.cpp.o: \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\wifi_mqtt.cpp \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\wifi_mqtt.h \
+D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\wifi_mqtt.cpp.o: \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\wifi_mqtt.cpp \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\wifi_mqtt.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/newlib/stdio.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/newlib/_ansi.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/newlib/newlib.h \
@@ -192,5 +192,5 @@ F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\wifi_mqtt.cpp.o: \
  C:\Users\16372\Documents\Arduino\libraries\I2C_BM8563_RTC\src/I2C_BM8563.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\libraries\Wire\src/Wire.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\cores\esp32/esp32-hal.h \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\esp32_sys_time.h \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\esp32_sys_time.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/spi_flash/esp_spi_flash.h

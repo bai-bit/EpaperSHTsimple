@@ -1,4 +1,4 @@
-F:\EpaperSHTsimple\EpaperSHTsimple\build\core\esp32-hal-touch.c.o: \
+D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\core\esp32-hal-touch.c.o: \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\cores\esp32\esp32-hal-touch.c \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\cores\esp32\esp32-hal-touch.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\cores\esp32\esp32-hal.h \

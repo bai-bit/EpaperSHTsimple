@@ -1,6 +1,6 @@
-F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\SHT3x.cpp.o: \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\SHT3x.cpp \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\SHT3x.h \
+D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\SHT3x.cpp.o: \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\SHT3x.cpp \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\SHT3x.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\cores\esp32/Arduino.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/newlib/stdint.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/newlib/machine/_default_types.h \

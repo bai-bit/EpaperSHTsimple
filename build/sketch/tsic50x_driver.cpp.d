@@ -1,6 +1,6 @@
-F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\tsic50x_driver.cpp.o: \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\tsic50x_driver.cpp \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\tsic50x_driver.h \
+D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\tsic50x_driver.cpp.o: \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\tsic50x_driver.cpp \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\tsic50x_driver.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/newlib/stdint.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/newlib/machine/_default_types.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/newlib/sys/features.h \

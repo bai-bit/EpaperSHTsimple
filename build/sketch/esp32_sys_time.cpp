@@ -1,4 +1,4 @@
-#line 1 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\esp32_sys_time.cpp"
+#line 1 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\esp32_sys_time.cpp"
 #include "esp32_sys_time.h"
 
 static void crc16_update(uint16_t *currectCrc, const uint8_t *src, uint32_t lengthInBytes)

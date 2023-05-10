@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "f:/EpaperSHTsimple/EpaperSHTsimple",
-      "program": "f:/EpaperSHTsimple/EpaperSHTsimple/build/Debug/outDebug",
+      "cwd": "d:/chaohe/HiPNUC/EpaperSHTsimple/EpaperSHTsimple",
+      "program": "d:/chaohe/HiPNUC/EpaperSHTsimple/EpaperSHTsimple/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

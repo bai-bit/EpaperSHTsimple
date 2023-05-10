@@ -1,6 +1,6 @@
-F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\esp_uart.cpp.o: \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\esp_uart.cpp \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\esp_uart.h \
+D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\esp_uart.cpp.o: \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\esp_uart.cpp \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\esp_uart.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/newlib/stdio.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/newlib/_ansi.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/newlib/newlib.h \

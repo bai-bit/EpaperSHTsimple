@@ -1,4 +1,4 @@
-#line 1 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\SHT3x.cpp"
+#line 1 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\SHT3x.cpp"
 #include "SHT3x.h"
 		SHT3x::SHT3x(int Address, ValueIfError Value, uint8_t HardResetPin, SHT3xSensor SensorType, SHT3xMode Mode)
 {

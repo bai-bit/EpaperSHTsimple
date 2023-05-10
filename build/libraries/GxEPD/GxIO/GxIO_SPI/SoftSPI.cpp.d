@@ -1,4 +1,4 @@
-F:\EpaperSHTsimple\EpaperSHTsimple\build\libraries\GxEPD\GxIO\GxIO_SPI\SoftSPI.cpp.o: \
+D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\libraries\GxEPD\GxIO\GxIO_SPI\SoftSPI.cpp.o: \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src\GxIO\GxIO_SPI\SoftSPI.cpp \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src\GxIO\GxIO_SPI\SoftSPI.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\cores\esp32/Arduino.h \

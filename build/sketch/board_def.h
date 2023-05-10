@@ -1,4 +1,4 @@
-#line 1 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\board_def.h"
+#line 1 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\board_def.h"
 //#define TTGO_T5_1_2 0
 //#define TTGO_T5_2_0 0
 //#define TTGO_T5_2_1 0

@@ -1,4 +1,4 @@
-#line 1 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\tsic50x_driver.h"
+#line 1 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\tsic50x_driver.h"
 #ifndef __TSIC50X_DRIVER_H__
 #define __TSIC50X_DRIVER_H__
 

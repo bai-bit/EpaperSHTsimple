@@ -1,4 +1,4 @@
-F:\EpaperSHTsimple\EpaperSHTsimple\build\libraries\I2C_BM8563_RTC\I2C_BM8563.cpp.o: \
+D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\libraries\I2C_BM8563_RTC\I2C_BM8563.cpp.o: \
  C:\Users\16372\Documents\Arduino\libraries\I2C_BM8563_RTC\src\I2C_BM8563.cpp \
  C:\Users\16372\Documents\Arduino\libraries\I2C_BM8563_RTC\src\I2C_BM8563.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\libraries\Wire\src/Wire.h \

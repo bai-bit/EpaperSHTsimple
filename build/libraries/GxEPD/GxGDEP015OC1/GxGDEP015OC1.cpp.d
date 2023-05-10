@@ -1,4 +1,4 @@
-F:\EpaperSHTsimple\EpaperSHTsimple\build\libraries\GxEPD\GxGDEP015OC1\GxGDEP015OC1.cpp.o: \
+D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\libraries\GxEPD\GxGDEP015OC1\GxGDEP015OC1.cpp.o: \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src\GxGDEP015OC1\GxGDEP015OC1.cpp \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src\GxGDEP015OC1\GxGDEP015OC1.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\cores\esp32/Arduino.h \

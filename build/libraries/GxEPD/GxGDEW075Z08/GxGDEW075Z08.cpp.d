@@ -1,4 +1,4 @@
-F:\EpaperSHTsimple\EpaperSHTsimple\build\libraries\GxEPD\GxGDEW075Z08\GxGDEW075Z08.cpp.o: \
+D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\libraries\GxEPD\GxGDEW075Z08\GxGDEW075Z08.cpp.o: \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src\GxGDEW075Z08\GxGDEW075Z08.cpp \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src\GxGDEW075Z08\GxGDEW075Z08.h \
  c:\users\16372\documents\arduino\libraries\gxepd\src\gxepd.h \

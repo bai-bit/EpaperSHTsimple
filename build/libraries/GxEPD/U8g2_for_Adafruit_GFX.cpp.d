@@ -1,4 +1,4 @@
-F:\EpaperSHTsimple\EpaperSHTsimple\build\libraries\GxEPD\U8g2_for_Adafruit_GFX.cpp.o: \
+D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\libraries\GxEPD\U8g2_for_Adafruit_GFX.cpp.o: \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src\U8g2_for_Adafruit_GFX.cpp \
  C:\Users\16372\Documents\Arduino\libraries\Adafruit\ GFX\ Library_ID13/Adafruit_GFX.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\cores\esp32/Arduino.h \

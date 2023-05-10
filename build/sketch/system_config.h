@@ -1,4 +1,4 @@
-#line 1 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\system_config.h"
+#line 1 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\system_config.h"
 #ifndef __SYSTEM_CONFIG_H__
 #define __SYSTEM_CONFIG_H__
 

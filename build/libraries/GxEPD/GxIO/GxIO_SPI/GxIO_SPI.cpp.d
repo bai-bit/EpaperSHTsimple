@@ -1,4 +1,4 @@
-F:\EpaperSHTsimple\EpaperSHTsimple\build\libraries\GxEPD\GxIO\GxIO_SPI\GxIO_SPI.cpp.o: \
+D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\libraries\GxEPD\GxIO\GxIO_SPI\GxIO_SPI.cpp.o: \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src\GxIO\GxIO_SPI\GxIO_SPI.cpp \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src\GxIO\GxIO_SPI\GxIO_SPI.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\libraries\SPI\src/SPI.h \

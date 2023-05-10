@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#line 1 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
+#line 1 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
 // include library, include base class, make path known
 #include "system_config.h"
 #include "SHT3x.h"
@@ -39,23 +39,23 @@ char sleep_flag = 0;
 struct tm timeinfo;
 rtc_date_t date;
 
-#line 40 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
+#line 40 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
 void tcaselect(uint8_t i);
-#line 50 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
+#line 50 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
 void tsic_power(uint8_t sensor_status);
-#line 54 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
+#line 54 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
 uint8_t tsic_data_output(uint8_t pinNum);
-#line 66 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
+#line 66 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
 void AT_CMD_Task(void *pvParamerters);
-#line 96 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
+#line 96 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
 void WIFI_MQTT_Task(void *pvParamerters);
-#line 124 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
+#line 124 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
 void getSensorData_Task(void *pvParamerters);
-#line 272 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
+#line 272 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
 void setup();
-#line 303 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
+#line 303 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
 void loop();
-#line 40 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
+#line 40 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\EpaperSHTsimple.ino"
 void tcaselect(uint8_t i)
 {
   if (i > 7)

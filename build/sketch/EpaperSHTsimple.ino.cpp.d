@@ -1,5 +1,5 @@
-F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\EpaperSHTsimple.ino.cpp.o: \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\EpaperSHTsimple.ino.cpp \
+D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\EpaperSHTsimple.ino.cpp.o: \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\EpaperSHTsimple.ino.cpp \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\cores\esp32/Arduino.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/newlib/stdint.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/newlib/machine/_default_types.h \
@@ -131,9 +131,9 @@ F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\EpaperSHTsimple.ino.cpp.o: \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/spi_flash/esp_partition.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/spi_flash/esp_spi_flash.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\variants\esp32/pins_arduino.h \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\system_config.h \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\system_config.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/esp32/esp_task_wdt.h \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\wifi_mqtt.h \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\wifi_mqtt.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\libraries\WiFi\src/WiFi.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\cores\esp32/Print.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\cores\esp32/IPv6Address.h \
@@ -194,15 +194,15 @@ F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\EpaperSHTsimple.ino.cpp.o: \
  C:\Users\16372\Documents\Arduino\libraries\I2C_BM8563_RTC\src/I2C_BM8563.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\libraries\Wire\src/Wire.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\cores\esp32/esp32-hal.h \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\esp32_sys_time.h \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\esp32_sys_time.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/spi_flash/esp_spi_flash.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\libraries\SPI\src/SPI.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\cores\esp32/esp32-hal-spi.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\libraries\Ticker\src/Ticker.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\cores\esp32/Esp.h \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\esp32_sys_init.h \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\tsic50x_driver.h \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\esp_uart.h \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\esp32_sys_init.h \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\tsic50x_driver.h \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\esp_uart.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/driver/driver/uart.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/soc/soc/uart_reg.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/soc/soc/uart_struct.h \
@@ -214,12 +214,12 @@ F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\EpaperSHTsimple.ino.cpp.o: \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/soc/soc/periph_defs.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/esp_ringbuf/freertos/ringbuf.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/soc/soc/uart_channel.h \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\boardSensor.h \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\boardSensor.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/driver/driver/rtc_io.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/soc/soc/rtc_gpio_channel.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/soc/soc/rtc_periph.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/soc/soc/rtc_cntl_reg.h \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\display_driver.h \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\display_driver.h \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src/GxEPD.h \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src/GxIO/GxIO.h \
  C:\Users\16372\Documents\Arduino\libraries\Adafruit\ GFX\ Library_ID13/Adafruit_GFX.h \
@@ -231,7 +231,7 @@ F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\EpaperSHTsimple.ino.cpp.o: \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src/GxIO/GxIO_SPI/GxIO_SPI.h \
  c:\users\16372\documents\arduino\libraries\gxepd\src\gxio\gxio.h \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src/GxIO/GxIO.h \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\board_def.h \
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\board_def.h \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src/GxDEPG0213BN/GxDEPG0213BN.h \
  c:\users\16372\documents\arduino\libraries\gxepd\src\gxepd.h \
- F:\EpaperSHTsimple\EpaperSHTsimple\build\sketch\SHT3x.h
+ D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\sketch\SHT3x.h

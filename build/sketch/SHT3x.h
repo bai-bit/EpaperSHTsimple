@@ -1,4 +1,4 @@
-#line 1 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\SHT3x.h"
+#line 1 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\SHT3x.h"
 /*
 	Arduino library for Sensirion temperature and humidity sensors SHT30, SHT31 & SHT35.
 	the heavy version.

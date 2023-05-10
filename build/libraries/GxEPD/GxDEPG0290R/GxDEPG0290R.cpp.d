@@ -1,4 +1,4 @@
-F:\EpaperSHTsimple\EpaperSHTsimple\build\libraries\GxEPD\GxDEPG0290R\GxDEPG0290R.cpp.o: \
+D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\libraries\GxEPD\GxDEPG0290R\GxDEPG0290R.cpp.o: \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src\GxDEPG0290R\GxDEPG0290R.cpp \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src\GxDEPG0290R\GxDEPG0290R.h \
  c:\users\16372\documents\arduino\libraries\gxepd\src\gxepd.h \

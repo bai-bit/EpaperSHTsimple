@@ -1,4 +1,4 @@
-#line 1 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\boardSensor.h"
+#line 1 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\boardSensor.h"
 #ifndef __BOARD_SENSOR_H__
 #define __BOARD_SENSOR_H__
 

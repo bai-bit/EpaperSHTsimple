@@ -1,4 +1,4 @@
-#line 1 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\boardSensor.cpp"
+#line 1 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\boardSensor.cpp"
 #include "boardSensor.h"
 
 void boardInit(void)

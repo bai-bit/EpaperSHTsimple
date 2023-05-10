@@ -1,4 +1,4 @@
-#line 1 "F:\\EpaperSHTsimple\\EpaperSHTsimple\\display_driver.cpp"
+#line 1 "D:\\chaohe\\HiPNUC\\EpaperSHTsimple\\EpaperSHTsimple\\display_driver.cpp"
 #include "display_driver.h"
 
 GxIO_Class io(SPI, ELINK_SS, ELINK_DC, ELINK_RESET);

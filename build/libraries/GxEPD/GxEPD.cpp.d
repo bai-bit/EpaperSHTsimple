@@ -1,4 +1,4 @@
-F:\EpaperSHTsimple\EpaperSHTsimple\build\libraries\GxEPD\GxEPD.cpp.o: \
+D:\chaohe\HiPNUC\EpaperSHTsimple\EpaperSHTsimple\build\libraries\GxEPD\GxEPD.cpp.o: \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src\GxEPD.cpp \
  C:\Users\16372\Documents\Arduino\libraries\GxEPD\src\GxEPD.h \
  C:\Users\16372\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\cores\esp32/Arduino.h \
