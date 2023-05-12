@@ -24,7 +24,7 @@ static void crc16_update(uint16_t *currectCrc, const uint8_t *src, uint32_t leng
 
 uint16_t checkout_param(cfgParam *read_data, size_t len)
 {
-  if(read_data->work_mode != 0 && read_data->work_mode != 1)
+  if(read_data->work_mode != 0 && read_data->work_mode != 1 && read_data->work_mode !=2)
     read_data->work_mode = 1;
   if(read_data->serialBaud != 9600 && read_data->serialBaud != 115200 && read_data->serialBaud != 230400 && read_data->serialBaud != 460800 && read_data->serialBaud != 921600)
   {

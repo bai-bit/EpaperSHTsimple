@@ -78,14 +78,17 @@ void show_info_wifi_mqtt_status(uint8_t net_status)
         break;
     case 1:
         display.print("Wi  Mq?");
-    break;
+        break;
     case 2:
-    break;
+        break;
     case 3:
-      display.print("Wi  Mq");
-    break;
+        display.print("Wi  Mq");
+        break;
+    case 4:
+        display.print("Active");
+        break;
     default:
-    break;
+        break;
   }
 
   display.updateWindow(box_x, box_y, box_w, box_h, true);

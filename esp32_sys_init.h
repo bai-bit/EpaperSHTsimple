@@ -10,7 +10,7 @@
 #define SEC_OFFSET 0
 
 typedef struct {
-        uint8_t work_mode;    //0:  normal    1:sleep mode
+        uint8_t work_mode;    //0:local    1:sleep mode   2:connect wifi
         uint32_t device_id;
         uint32_t serialBaud;
         char wifi_name[32];

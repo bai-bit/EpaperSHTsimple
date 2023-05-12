@@ -10,7 +10,7 @@
 void setupWifi(char *ssid, const char *password, char *wifi_flag);
 void clientReconnect(char *mqtt_devid, const char *mqtt_pubid, const char *mqtt_password, char *m_flag);
 
-void sendTempAndHumi(rtc_date_t *date, float *temp, float *humidity);
+void sendTempAndHumi(rtc_date_t *date, uint32_t id, float *temp, float *humidity);
 void callback(char *topic, byte *payload, unsigned int length);
 
 void mqtt_init(char *mqtt_server,uint32_t port_number,char *mqtt_devid, const char *mqtt_pubid, const char *mqtt_password, char *m_flag);

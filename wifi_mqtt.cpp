@@ -95,15 +95,15 @@ void callback(char *topic, byte *payload, unsigned int length)
   Serial.println();
   putchar(10);
 }
-  char msg_buf[500];                                                                                                                                                                                                         //发送信息缓冲区
-  char dataTemplate[] = "{\"t1\":%.2f,\"h1\":%.2f,\"t2\":%.2f,\"h2\":%.2f,\"t3\":%.2f,\"h3\":%.2f,\"t4\":%.2f,\"h4\":%.2f,\"t5\":%.2f,\"h5\":%.2f,\"t6\":%.2f,\"h6\":%.2f,\"t7\":%.2f,\"t8\":%.2f,\"Time\":%02d%c%02d%c%02d%c}"; //信息模板
-  char msgJson[500]; 
+  char msg_buf[600];                                                                                                                                                                                                         //发送信息缓冲区
+  char dataTemplate[] = "{\"ID-t1\":%02d-%.2f,\"h1\":%.2f,\"ID-t2\":%02d-%.2f,\"h2\":%.2f,\"ID-t3\":%02d-%.2f,\"h3\":%.2f,\"ID-t4\":%02d-%.2f,\"h4\":%.2f,\"ID-t5\":%02d-%.2f,\"h5\":%.2f,\"ID-t6\":%02d-%.2f,\"ID-h6\":%.2f,\"ID-t7\":%02d-%.2f,\"ID-t8\":%02d-%.2f,\"Time\":%02d-%02d%c%02d%c%02d%c}"; //信息模板
+  char msgJson[600]; 
   char datestr[] ="hms";                                                                                                                                                                                                        //要发送的json格式的数据
   unsigned short json_len = 0;
 //向主题发送模拟的温湿度数据
-void sendTempAndHumi(rtc_date_t *date, float *temp, float *humidity)
+void sendTempAndHumi(rtc_date_t *date, uint32_t id, float *temp, float *humidity)
 {
-  snprintf(msgJson, 500, dataTemplate, temp[0], humidity[0], temp[1], humidity[1], temp[2], humidity[2], temp[3], humidity[3], temp[4], humidity[4], temp[5], humidity[5], temp[6], temp[7], date->hour, datestr[0], date->minute, datestr[1], date->second, datestr[2]);
+  snprintf(msgJson, 500, dataTemplate, id, temp[0], humidity[0], id, temp[1], humidity[1], id, temp[2], humidity[2], id, temp[3], humidity[3], id, temp[4], humidity[4],  id, temp[5], humidity[5], id, temp[6], id, temp[7], id, date->hour, datestr[0], date->minute, datestr[1], date->second, datestr[2]);
 
   if (client.connected())
   {

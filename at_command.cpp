@@ -131,7 +131,7 @@ int MODE(int argc, char *const argv[])
   if(checkout_output_flag(param))
     return 1;
   uint8_t val = strtoul(argv[2] + 1, 0, 0);
-  if(val != 0 && val != 1)
+  if(val != 0 && val != 1 && val != 2)
   {
     val = 1;
     printf("Input error,please input 0 or 1\r\n");
@@ -316,9 +316,9 @@ int TIMESLEEP(int argc, char *const argv[])
     return 1;
 
   int val = strtoul(argv[2]+1, 0, 0);
-  if(val < 0 && val > (24 * 3600))
+  if(val < 29 && val > (24 * 3600))
   {
-    printf("The entered value is too large\r\n");
+    printf("Invalid input value,Input value range:30 ~ 86400(24h * 3600s)!!\r\n");
     return 0;
   }
    
