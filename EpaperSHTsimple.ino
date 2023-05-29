@@ -81,11 +81,14 @@ void AT_CMD_Task(void *pvParamerters)
         param->temp_param.output_flag = 2;
         printf("Enter Configuration Mode\r\n");
         vTaskSuspend(getSensorData_handler);
+        vTaskSuspend(wifiConnect_handler);
+
       }
       else if (param->temp_param.output_flag == 1 && getSensorData_handler != NULL && wifiConnect_handler != NULL)
       {
         param->temp_param.output_flag = 3;
         vTaskResume(getSensorData_handler);
+        vTaskResume(wifiConnect_handler);
         printf("Exit Configuration Mode\r\n");
       }
     }

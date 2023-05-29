@@ -13,7 +13,7 @@
 #define SENSOR_4_J13 33
 #define SENSOR_5_J8 27
 #define SENSOR_6_J14 26
-#define SENSOR_7_J9 0
+#define SENSOR_7_J9 19
 #define SENSOR_8_J15 12
 #define LED_IO19 19
 
